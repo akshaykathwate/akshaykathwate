@@ -31,7 +31,7 @@ public class Akshay extends Developer {
     String location   = "Pune, India 🇮🇳";
     String role       = "Backend & Full Stack Developer";
     String current    = "Software Developer Intern @ Krawlnet Technologies";
-    String focus      = "Spring Boot · React · System Design";
+    String focus      = "Backend · Frontend · Problem Solving";
 
     String[] interests = {
         "Building scalable REST APIs",
