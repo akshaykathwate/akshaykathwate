@@ -126,7 +126,7 @@ public class Akshay extends Developer {
 <h3 align="center">🌾 AgroIntel</h3>
 
 <div align="center">
-  <a href="https://github.com/akshaykathwate">
+  <a href="https://github.com/akshaykathwate/CottonSage_Frontend">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=akshaykathwate&repo=agrointel&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" alt="AgroIntel"/>
   </a>
 </div>
